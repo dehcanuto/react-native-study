@@ -1,3 +1,5 @@
-# react-88hfpf
+# react-app
+# React Native App for study
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-88hfpf)
+## Projeto de teste para Rede Social.
+Utilizando o React Native.
